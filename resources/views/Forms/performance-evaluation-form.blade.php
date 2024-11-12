@@ -30,3 +30,10 @@
         </div>
 
         <div>
+            <label for="employee_name">Comments</label>
+            <input type="text" id="comments" name="comments" required>
+        </div>
+
+        <button type="submit">Submit</button>
+
+        <div>
